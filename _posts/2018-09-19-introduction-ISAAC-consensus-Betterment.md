@@ -60,14 +60,16 @@ Therefore, to increase the number of network nodes gradually in order to access 
 
 ### 3. Network robustness -  Safety
 
-If two nodes in the blockchain agree on different conclusions, no consensus is reached of course. An attempt to negotiate a different value in a blockchain means that the hash value of the block is different, which implies that block heights may be different or hard forking may occur.
+Let's assume that nodes have different blocks each other in the blockchain network, Can we trust this blockchain system?
 
-Within the blockchain, nodes that are state replication machines must agree on the same result.
-In addition, when this agreement is reached, it can be said that the network is not divided. In other words, it can be said that the network is healthy. This is related to the last AA.
+Safety, terms in blockchain, means that nodes will not reach consensus based on different results. And Liveness means node will make consensus based on a single value no matter how much takes time. ( [You can find more detail informations through previous AA](https://boscoin.io/introduction-of-isaac-consensus-protocol-for-bosnet/) .)
+Liveness & Safety are essential factors for blockchain network robustness. Especially, Safety have to be existed for network dispatch prevention( a.k.a Hardfork ).
 
-Let's take an example where a blockchain network is detached. For example, in Bitcoin, they have created a consensus protocol with the greatest emphasis on liveness, among the three factors which were safety, liveness, and fault tolerance mentioned in the FLP Theorem. As a result, Bitcoin Cash, Bitcoin Gold, and Bitcoin Dark separated from the Bitcoin blockchain. On the focusing on liveness, this consequences were happened inevitably.
+Consensus protocol of the bitcoin is concerned on liveness among safety and liveness. Accordingly, bitcoin network can't avoid hardfork to bitcoin-cash, bitcoin gold and etc.
 
-The BOScoin development team applied a more advanced design to ISAAC on the principle that the nodes must agree on maintaining the robustness of the network, focusing on the finality, and safety of the blocks.
+In other words, BOScoin dev team thought that blockchain network should have safety for its sound blockchain network.
+
+As a result, BOScoin dev team  apply safety factor on ISAAC consensus protocol design for keeping network robustness. This decision will help block's finality and prevent blockchain network dispatch.
 
 *****
 *****
