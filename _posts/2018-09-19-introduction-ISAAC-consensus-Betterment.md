@@ -10,7 +10,7 @@ permalink: /:title:output_ext
 
 Since the beginning of January 2018, there have been many changes in the world of cryptography and blockchain. There is a worldwide interest in what are Bitcoins and what is Blockchain? 
 
-Despite the steep decline in Bitcoin price, the BOScoin development team has released the ISAAC consensus protocol as open source at [github](github.com/bosnet) and released a mobile wallet.
+Despite the steep decline in Bitcoin price, the BOScoin development team has released the ISAAC consensus protocol as open source at [github](https://github.com/bosnet) and released a mobile wallet.
 Recently, we are doing our best to develop MainNet on our TestNet network, SEBAK.
 
 At this time we are pleased to release the design of a more advanced version of the ISAAC consensus protocol.
