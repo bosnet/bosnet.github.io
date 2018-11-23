@@ -1,3 +1,9 @@
+---
+layout: post
+permalink: /SEBAK-deployment-standalone/
+---
+---
+
 By the nature of design, SEBAK should be deployed as composition of nodes and they should tightly connected for consensus. This standalone mode recommend only for testing and debugging. With standalone mode, you do not need to compose quorum and another server. It does not make consensus, just execute incoming messages including transactions, but it do the right work, such as inflation, collecting transaction fee, etc.
 
 ## Installation

@@ -1,3 +1,8 @@
+---
+layout: post
+permalink: /SEBAK-for-exchange/
+---
+---
 # Pre-required Instruction
 
 Before access to Sebak public Testnet, BOScoin devteam strongly recommends to test in your local environment with [standalone mode](Running-Standalone-Mode) & [sebak-angelbot](https://github.com/spikeekips/sebak-angelbot).

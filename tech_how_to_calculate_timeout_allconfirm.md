@@ -1,3 +1,8 @@
+---
+layout: post
+permalink: /how-to-calculate-timeout-allconfirm/
+---
+---
 # How to calculate timeout allconfirm
 
 ## Background

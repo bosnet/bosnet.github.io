@@ -1,3 +1,8 @@
+---
+layout: post
+permalink: /how-transactions-are-shared/
+---
+---
 # How transactions are shared
 
 All transactions must be shared among nodes in network. This is because all nodes must validate the transactions in the proposed ballot by itself and vote with the result. Also, because of efficiency, only hash of the transaction is included in the ballot.

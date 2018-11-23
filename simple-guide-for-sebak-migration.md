@@ -1,5 +1,5 @@
 ---
-layout: page02
+layout: post
 permalink: /simple-guide-for-sebak-migration/
 ---
 ---
