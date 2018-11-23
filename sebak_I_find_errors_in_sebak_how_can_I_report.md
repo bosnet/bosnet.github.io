@@ -2,7 +2,7 @@
 layout: post
 permalink: /I-find-some-errors-in-sebak/
 ---
-
+---
 # I find some errors in sebak, How can I report this?
 
 * Please submit error report or questions to [github issue](https://github.com/bosnet/sebak/issues/new) or [dev-support@blockchainos.org](dev-support@blockchainos.org).
