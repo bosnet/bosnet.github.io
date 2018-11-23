@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD:simple-guide-for-sebak-migration.md
 layout: page02
-=======
-layout: post
->>>>>>> 6d9c18672fdbb35af58334a346f0ae8f7a1caeeb:simple-guide-for-sebak-migration.md
 permalink: /simple-guide-for-sebak-migration/
 ---
 ---
