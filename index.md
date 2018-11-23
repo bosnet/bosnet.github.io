@@ -10,3 +10,4 @@ layout: default
 |[GoDoc of SEBAK](https://godoc.org/boscoin.io/sebak)|
 |[Introduction of ISAAC consensus protocol betterments](/introduction-isaac-consensus-protocol-betterment/)|
 |[Simple guide for SEBAK migration](/simple-guide-for-sebak-migration/)|
+|[I found some errors in SEBAK](/I-find-some-errors-in-sebak/)|
