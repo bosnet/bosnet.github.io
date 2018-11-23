@@ -1,3 +1,8 @@
+---
+layout: post
+permalink: /how-the-consensus-protocol-works/
+---
+---
 # How the consensus protocol works
 
 # Consensus Protocol
