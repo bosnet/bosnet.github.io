@@ -1,7 +1,5 @@
 ---
-layout: page01
-# date:   2018-09-19 17:22:05 +0900
-# categories: boscoin consensus protocol
+layout: post
 permalink: /introduction-isaac-consensus-protocol-betterment/
 ---
 ---
