@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 layout: page01
+=======
+layout: post
+>>>>>>> 855d87d3c17756d56e03de9716d620dfe5bb6596
 # date:   2018-09-19 17:22:05 +0900
 # categories: boscoin consensus protocol
 permalink: /introduction-isaac-consensus-protocol-betterment/
