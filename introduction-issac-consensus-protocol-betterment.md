@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD:introduction-ISAAC-consensus-Betterment.md
 layout: page01
-=======
-layout: post
->>>>>>> 6d9c18672fdbb35af58334a346f0ae8f7a1caeeb:introduction-ISAAC-consensus-Betterment.md
 # date:   2018-09-19 17:22:05 +0900
 # categories: boscoin consensus protocol
 permalink: /introduction-isaac-consensus-protocol-betterment/
