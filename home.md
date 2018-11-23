@@ -1,5 +1,5 @@
 ---
-title: Home
+layout: Home
 ---
 
 BoseNet Github Blog Site
