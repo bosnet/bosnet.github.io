@@ -1,3 +1,4 @@
+---
 # How to make a ricardian contract for PF proposal.
 
 In Boscoin, ricardian contract is written in yaml format.
