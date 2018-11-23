@@ -1,3 +1,9 @@
+---
+layout: post
+permalink: /SEBAK-command/
+---
+---
+
 To install `sebak` command, please check the [installation guide](./sebak_installation.md).
 
 # Options
