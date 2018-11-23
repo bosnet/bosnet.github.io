@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Simple guide to Exchange for BOScoin main-net "
+layout: page02
+permalink: /simple-guide-for-sebak-migration/
+---
 ---
 # Simple guide to Exchanges for BOScoin migration
 
