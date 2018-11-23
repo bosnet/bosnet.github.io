@@ -15,3 +15,9 @@ layout: default
 |[SEBAK deployment](/SEBAK-deployment/)|
 |[SEBAK command](/SEBAK-deployment-standalone/)|
 |[SEBAK for exchange](/SEBAK-for-exchange/)|
+|[How block inflation works](/how-block-inflation-works/)|
+|[How pf inflation works](/how-pf-inflation-works/)|
+|[How to make transaction post](/how-to-make-transaction-post/)|
+|[SEBAK installation](/SEBAK-installation/)|
+|[SEBAK testnet](/SEBAK-testnet/)|
+|[What is GON?](/what-is-gon/)|
