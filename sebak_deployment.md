@@ -1,3 +1,8 @@
+---
+layout: post
+permalink: /SEBAK-deployment/
+---
+---
 To deploy the sebak network, the basic steps are mentioned below.
 
 1. Compose network
