@@ -1,3 +1,8 @@
+---
+layout: post
+permalink: /SEBAK-testnet/
+---
+---
 ### *Testnet*
 As its name implies, *Testnet* is used for testing purpose. You can create new accounts without any permission or restriction and send payment to other accounts. This network is isolated from the *existing token-net network*.
 
