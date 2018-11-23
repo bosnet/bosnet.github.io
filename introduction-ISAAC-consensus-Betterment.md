@@ -1,11 +1,10 @@
 ---
-layout: post
-title:  "Introduction of ISAAC consensus protocol betterments"
+layout: page01
 # date:   2018-09-19 17:22:05 +0900
 # categories: boscoin consensus protocol
-permalink: /:title:output_ext
+permalink: /introduction-isaac-consensus-protocol-betterment/
 ---
-
+---
 # Preface
 
 Since the beginning of January 2018, there have been many changes in the world of cryptography and blockchain. There is a worldwide interest in what are Bitcoins and what is Blockchain? 
