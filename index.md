@@ -13,7 +13,7 @@ layout: default
 |[I found some errors in SEBAK](/I-find-some-errors-in-sebak/)|
 |[SEBAK command](/SEBAK-command/)|
 |[SEBAK deployment](/SEBAK-deployment/)|
-|[SEBAK command](/SEBAK-deployment-standalone/)|
+|[SEBAK deployment standalone](/SEBAK-deployment-standalone/)|
 |[SEBAK for exchange](/SEBAK-for-exchange/)|
 |[How block inflation works](/how-block-inflation-works/)|
 |[How pf inflation works](/how-pf-inflation-works/)|
