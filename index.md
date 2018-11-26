@@ -8,7 +8,7 @@ layout: default
 |---|
 |[SEBAK API Document](https://bosnet.github.io/sebak)|
 |[GoDoc of SEBAK](https://godoc.org/boscoin.io/sebak)|
-|[Introduction of ISAAC consensus protocol betterments](/introduction-isaac-consensus-protocol-betterment/)|
+|[Introduction of ISAAC Consensus protocol betterments](/introduction-isaac-consensus-protocol-betterment/)|
 |[Simple guide for SEBAK migration](/simple-guide-for-sebak-migration/)|
 |[I found some errors in SEBAK](/I-find-some-errors-in-sebak/)|
 |[SEBAK command](/SEBAK-command/)|
