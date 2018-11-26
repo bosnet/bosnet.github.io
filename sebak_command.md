@@ -3,10 +3,14 @@ layout: post
 permalink: /SEBAK-command/
 ---
 ---
+<<<<<<< HEAD
 
+=======
+# SEBAK command
+>>>>>>> b1b6310300f51b838efb63b65bb15b4ccc138a36
 To install `sebak` command, please check the [installation guide](./sebak_installation.md).
 
-# Options
+## Options
 ```
 $ sebak
 Usage:
@@ -28,8 +32,8 @@ Flags:
 Use "sebak [command] --help" for more information about a command.
 ```
 
-# Commands
-## Generate Keypair
+## Commands
+### Generate Keypair
 
 With `key generate` you can generate new keypair.
 
@@ -39,7 +43,7 @@ $ sebak key generate
     Public Address: GDANB4X55ZATEO7DORBYNLRPQK2REHHGXPFDFI6KDEKZECR2NGEKDR5C
 ```
 
-## `sebak genesis`
+### `sebak genesis`
 
 It will create new genesis account and common budget account and it's block.
 
@@ -62,7 +66,7 @@ By default, the balance of genesis account will be `1,000,000,000,000`(a hundred
 $ sebak genesis GDUGDDCHYCVOSHG6LI62OP7VQVBW65PMPKKLYL272RBO6QIYDTQTR6HN GCDGWDPPDOCZ2V3SC7GZ6GWVYPFRL2X64IVZDTXN4PWKEHJ377JX23GV --network-id 'this-is-test-sebak-network' --balance 1,000,000,000,000.0000000
 ```
 
-## `sebak tls`
+### `sebak tls`
 SEBAK use HTTP2 protocol, so it needs SSL certificates. This command will generate self-signed SSL certificate.
 
 > You could also set your own SSL certificates manually.
@@ -81,7 +85,7 @@ Flags:
       --output string   tls output path (default ".")
 ```
 
-## `sebak node`
+### `sebak node`
 
 This command will run the node and will join the network.
 
@@ -137,7 +141,7 @@ $ sebak node \
 
 This node will be accessible through `https://localhost:12345` and node have 2 another nodes(https://localhost:12346 and https://localhost:12347) as validator.
 
-## `sebak wallet`
+### `sebak wallet`
 
 This command allows to interact with the network through the CLI interface.
 Currently, payment and unfreezeRequest are implemented, with account creation being an option of payment:
@@ -165,7 +169,7 @@ Flags:
       --verbose             Print extra data (transaction sent)
 ```
 
-## `sebak version`
+### `sebak version`
 
 This command for print current version.
 ```
