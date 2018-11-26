@@ -21,12 +21,3 @@ layout: default
 |[SEBAK installation](/SEBAK-installation/)|
 |[SEBAK testnet](/SEBAK-testnet/)|
 |[What is GON?](/what-is-gon/)|
-<<<<<<< HEAD
-=======
-|[Whar kind of key pair SEBAK in use?](/What-kind-of-key-pair-sebak-in-use/)|
-|[How the consensus protocol works](/how-the-consensus-protocol-works/)|
-|[How to calculate timeout allconfirm](/how-to-calculate-timeout-allconfirm/)|
-|[How to check a ballot is valid](/how-to-check-a-ballot-is-valid/)|
-|[How to select the proposer](/how-to-select-the-proposer/)|
-|[How transactions are shared](/how-transactions-are-shared/)|
->>>>>>> b1b6310300f51b838efb63b65bb15b4ccc138a36
