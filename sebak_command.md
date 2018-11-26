@@ -3,11 +3,7 @@ layout: post
 permalink: /SEBAK-command/
 ---
 ---
-<<<<<<< HEAD
-
-=======
 # SEBAK command
->>>>>>> b1b6310300f51b838efb63b65bb15b4ccc138a36
 To install `sebak` command, please check the [installation guide](./sebak_installation.md).
 
 ## Options
