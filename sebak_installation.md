@@ -1,6 +1,6 @@
 ---
-layout: post
-permalink: /SEBAK-installation/
+	layout: post
+	permalink: /SEBAK-installation/
 ---
 ---
 # SEAK installation
