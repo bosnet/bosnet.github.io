@@ -26,6 +26,7 @@ layout: default
 |[Whar kind of key pair SEBAK in use?](/What-kind-of-key-pair-sebak-in-use/)|
 |[How the consensus protocol works](/how-the-consensus-protocol-works/)|
 |[How to calculate block time buffer](/how-to-calculate-block-time-buffer/)|
+|[How to sync blocks with validators](/how-to-sync-blocks-with-validators/)|
 |[How to check a ballot is valid](/how-to-check-a-ballot-is-valid/)|
 |[How to select the proposer](/how-to-select-the-proposer/)|
 |[How transactions are shared](/how-transactions-are-shared/)|
