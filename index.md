@@ -6,7 +6,7 @@ layout: default
 ---
 
 |---|
-|[SEBAK API Document](https://bosnet.github.io/docs/api)|
+|[SEBAK API Document](http://bosnet.github.io/docs/api)|
 |[GoDoc of SEBAK](https://godoc.org/boscoin.io/sebak)|
 |[Introduction of ISAAC Consensus protocol betterments](docs/introduction-isaac-consensus-protocol-betterment/)|
 |[Simple guide for SEBAK migration](docs/simple-guide-for-sebak-migration/)|
